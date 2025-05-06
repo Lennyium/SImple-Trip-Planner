@@ -20,7 +20,7 @@ TripPlanner is a simple command-line Python application that helps users plan tr
 
 ## 📦 Requirements
 
-- Python 3.x
+- Python 3.13.3
 
 No external libraries required.
 
